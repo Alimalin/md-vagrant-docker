@@ -1,4 +1,5 @@
-﻿# md-vagrant-docker
+
+# md-vagrant-docker
 
 This project provides a streamlined setup for creating a virtual machine using Vagrant and provisioning it with Docker using Ansible. The Vagrantfile in this repository defines the virtual machine's configuration, and the Ansible script automates the installation of Docker on the virtual machine.
 
