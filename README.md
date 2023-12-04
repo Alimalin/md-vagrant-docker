@@ -6,7 +6,7 @@ This project provides a streamlined setup for creating a virtual machine using V
  
 # Prerequisites
 Before you begin, ensure that the following software is installed on your system:
-Vagrant
+Vagrant and
 VirtualBox
  
 Clone the repository to your local machine:
