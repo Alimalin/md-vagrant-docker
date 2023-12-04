@@ -11,6 +11,7 @@ VirtualBox
 First, clone the repository to your local machine by running the following commands
 
 git clone https://github.com/Alimalin/md-vagrant-docker.git
+
 cd md-vagrant-docker
 
 This command will download the base box, create the virtual machine, and execute the Ansible playbook to install Docker.
