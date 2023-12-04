@@ -12,6 +12,7 @@ VirtualBox
 Clone the repository to your local machine:
  
 git clone https://github.com/your-username/your-project.git
+
 cd your-project
 
 This command will download the base box, create the virtual machine, and execute the Ansible playbook to install Docker.
